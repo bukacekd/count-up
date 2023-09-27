@@ -7,7 +7,7 @@
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/npm/l/%40js4y%2Fcount-up" alt="license"></a>
 </p>
 
-A tiny dependency-free JavaSript ES6 library for animating numeric values.
+A tiny dependency-free JavaSript library for animating numeric values.
 
 Live Demo: https://bukacekd.github.io/count-up
 
