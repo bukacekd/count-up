@@ -3,7 +3,7 @@
 <p>
     <a href="https://www.npmjs.com/package/@js4y/count-up"><img src="https://img.shields.io/badge/dependencies-none-green.svg" alt="none dependencies"></a>
     <a href="https://www.npmjs.com/package/@js4y/count-up"><img src="https://img.shields.io/npm/v/%40js4y%2Fcount-up" alt="npm"></a>
-    <a href="https://www.npmjs.com/package/@js4y/count-up"><img src="https://img.shields.io/bundlephobia/minzip/%40js4y%2Fcount-up" alt="npm bundle size"></a>
+    <a href="https://www.npmjs.com/package/@js4y/count-up"><img src="https://deno.bundlejs.com/badge?q=@js4y/count-up&treeshake=[*]" alt="npm bundle size"></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/npm/l/%40js4y%2Fcount-up" alt="license"></a>
 </p>
 
@@ -246,6 +246,6 @@ The project is licensed under [MIT license](https://opensource.org/license/mit/)
 
 ## Related
 
-- [Dialog](https://github.com/bukacekd/Dialog) - A tiny dependency-free JavaSript ES6 library built on a dialog element with minimal configuration.
-- [lock-scroll](https://github.com/bukacekd/lock-scroll) - A set of methods to lock scrolling within an element or an entire page.
-- [Loader](https://github.com/bukacekd/Loader) - A tiny dependency-free javascript loading spinner component with minimal configuration.
+- [Dialog](https://github.com/bukacekd/dialog) - A tiny dependency-free JavaSript ES6 library built on a dialog element with minimal configuration.
+- [Loader](https://github.com/bukacekd/loader) - A tiny dependency-free javascript loading spinner component with minimal configuration.
+- [lockScroll](https://github.com/bukacekd/lock-scroll) - A set of methods to lock scrolling within an element or an entire page.
