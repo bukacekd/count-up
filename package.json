@@ -1,6 +1,6 @@
 {
   "name": "@js4y/count-up",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A tiny dependency-free JavaSript library for animating numeric values.",
   "author": "David Bukacek <https://github.com/bukacekd>",
   "license": "MIT",

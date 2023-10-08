@@ -105,7 +105,7 @@ new CountUp(document.body, {
 
 ### duration
 
-required: `false`, type: `Function`
+required: `false`, type: `number`
 
 Animation duration in milliseconds.
 
@@ -131,7 +131,7 @@ Tip: Try one of the easing functions from the https://easings.net/.
 
 ### formatter
 
-required: `false`, type: `Function`
+required: `false`, type: `Intl.NumberFormat`
 
 The number formatter. Allows wide formatting of numbers by locale. By default the formatting follows the [html language](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) of the page.
 
